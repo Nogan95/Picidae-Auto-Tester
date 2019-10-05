@@ -1,0 +1,23 @@
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\bin\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\bin\Release\MacroNode.pdb
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\obj\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\obj\Release\MacroNode.pdb
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\obj\Release\AutoTestStructure.csprojResolveAssemblyReference.cache
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\mscorlib.dll
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\ko\mscorlib.resources.dll
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\normidna.nlp
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\normnfc.nlp
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\normnfd.nlp
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\normnfkc.nlp
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\MacroNode\bin\Release\normnfkd.nlp
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - 19.08.20\MacroNode\bin\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - 19.08.20\MacroNode\bin\Release\MacroNode.pdb
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - 19.08.20\MacroNode\obj\Release\AutoTestStructure.csprojResolveAssemblyReference.cache
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - 19.08.20\MacroNode\obj\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - 19.08.20\MacroNode\obj\Release\MacroNode.pdb
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\bin\Release\MacroNode.dll
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\bin\Release\MacroNode.pdb
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Release\AutoTestStructure.csprojAssemblyReference.cache
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Release\AutoTestStructure.csproj.CoreCompileInputs.cache
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Release\MacroNode.dll
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Release\MacroNode.pdb

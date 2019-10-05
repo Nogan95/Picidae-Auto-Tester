@@ -1,0 +1,4 @@
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\bin\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\bin\Release\MacroNode.pdb
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\obj\Release\MacroNode.dll
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester\MacroNode\obj\Release\MacroNode.pdb

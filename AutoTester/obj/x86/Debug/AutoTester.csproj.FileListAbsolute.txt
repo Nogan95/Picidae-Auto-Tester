@@ -1,0 +1,19 @@
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\bin\Debug\AutoTester.exe
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\bin\Debug\AutoTester.pdb
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.MecroNode.resources
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.Properties.Resources.resources
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.csproj.GenerateResource.Cache
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.exe
+c:\users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.pdb
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.csprojResolveAssemblyReference.cache
+C:\Users\kckwon\documents\visual studio 2010\Projects\AutoTester\AutoTester\obj\x86\Debug\AutoTester.MainForm.resources
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.exe
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.pdb
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\bin\Debug\AutoTester.exe
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\bin\Debug\AutoTester.pdb
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.csprojResolveAssemblyReference.cache
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.MainForm.resources
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.Properties.Resources.resources
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.csproj.GenerateResource.Cache
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.NodeEditor.resources
+C:\Users\kckwon\Documents\Visual Studio 2010\Projects\AutoTester - MinimumGUI\AutoTester\obj\x86\Debug\AutoTester.AddPrefabFromImagePoint.resources

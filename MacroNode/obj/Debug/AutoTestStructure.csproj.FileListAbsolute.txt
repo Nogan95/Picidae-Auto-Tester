@@ -1,0 +1,11 @@
+C:\Users\SangJin\source\repos\AutoTester\MacroNode\bin\Debug\MacroNode.dll
+C:\Users\SangJin\source\repos\AutoTester\MacroNode\bin\Debug\MacroNode.pdb
+C:\Users\SangJin\source\repos\AutoTester\MacroNode\obj\Debug\AutoTestStructure.csproj.CoreCompileInputs.cache
+C:\Users\SangJin\source\repos\AutoTester\MacroNode\obj\Debug\MacroNode.dll
+C:\Users\SangJin\source\repos\AutoTester\MacroNode\obj\Debug\MacroNode.pdb
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\bin\Debug\MacroNode.dll
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\bin\Debug\MacroNode.pdb
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Debug\AutoTestStructure.csprojAssemblyReference.cache
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Debug\AutoTestStructure.csproj.CoreCompileInputs.cache
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Debug\MacroNode.dll
+C:\Repos\2019.07~2019.08 i-Sens\프로그램 소스코드\AutoTester - 19.08.23\MacroNode\obj\Debug\MacroNode.pdb
