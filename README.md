@@ -8,7 +8,7 @@
 
 |Build Date|Version|Link|
 |:---:|:---:|:---:|
-|2019.10.05|0.8| [Download]() |
+|2019.10.05|0.8| [Download](https://k.kakaocdn.net/dn/LNGMl/btqyQp0NVcU/HGJRnfks8fyrHM8LAv7Qs0/Picidae-Auto-Tester.zip?attach=1&knm=tfile.zip) |
 
 ## Picidae Auto Tester 소개
 
@@ -44,7 +44,7 @@ Picidae Auto Tester는 현재 마우스의 좌표에서 실행되는 최상위 �
 사용자는 txt 또는 csv 형식의 파일로 위의 정보를 제공받을 수 있습니다.
 
 ## 설명서
-더 자세한 정보와 사용 설명서를 [이 링크]()에서 볼 수 있습니다.
+더 자세한 정보와 사용 설명서를 [이 링크](https://saojin10.gitbook.io/picidae-auto-tester/)에서 볼 수 있습니다.
 
 ## 오픈소스 라이센스 정보
 
