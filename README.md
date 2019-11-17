@@ -1,3 +1,5 @@
+## 이 저장소는 개발이 중지된 저장소입니다.
+
 # Picidae-Auto-Tester
 
 ![C#](https://img.shields.io/badge/Language-C%23-yellow) ![Licence](https://img.shields.io/badge/Licence-MIT-blue) ![Platfrom](https://img.shields.io/badge/Platform-Windows-brightgreen) ![Framework](https://img.shields.io/badge/Framework-.Net_%20Framework%204.7-red)
